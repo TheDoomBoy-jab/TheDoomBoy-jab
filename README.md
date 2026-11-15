@@ -14,7 +14,7 @@ I'm a second-year engineering student at IIT Patna interested in machine learnin
 ## 📊 Activity & Metrics
 
 <div align="center">
-  <img src="github-metrics.svg" alt="Aahan's GitHub Metrics" width="100%">
+  <img src="github-metrics.svg" alt="Aahan's GitHub Metrics" width="480">
 </div>
 
 I'm learning from open source and enjoy debugging, practical experiments, and clear technical explanations.
