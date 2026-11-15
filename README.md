@@ -13,6 +13,5 @@ I'm a second-year engineering student at IIT Patna interested in machine learnin
 
 I'm learning from open source and enjoy debugging, practical experiments, and clear technical explanations.
 
-**Looking for paid engineering internships:** available full-time December 1–January 1, with remote continuation afterward by agreement.
 
 [LinkedIn](https://www.linkedin.com/in/aahan-nayak/) · [GitHub](https://github.com/TheDoomBoy-jab)
