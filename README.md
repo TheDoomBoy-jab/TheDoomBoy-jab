@@ -1,4 +1,4 @@
-# Hi, I'm Aahan!
+# hi, im aahan!
 
 I'm a second-year engineering student at IIT Patna interested in machine learning, developer tools, and the systems that make software work. I like investigating a problem, building an experiment, and learning from the results.
 
