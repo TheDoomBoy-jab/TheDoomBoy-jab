@@ -2,7 +2,7 @@
 
 I'm a second-year engineering student at IIT Patna interested in machine learning, developer tools, and the systems that make software work. I like investigating a problem, building an experiment, and learning from the results.
 
-## Selected work
+## selected work
 
 - [Guitar chord recognition](https://github.com/TheDoomBoy-jab/Guitar-Chord-CNN) — audio preprocessing, log-mel spectrograms, and a convolutional classifier.
 - [Single-image 3D reconstruction](https://github.com/TheDoomBoy-jab/3d-rendering-from-2d-image) — CNN and cross-attention reconstruction experiments with training and held-out evaluation. [Try an image](https://github.com/TheDoomBoy-jab/3d-rendering-from-2d-image#try-your-own-image).
