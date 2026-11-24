@@ -11,7 +11,7 @@ I'm a second-year engineering student at IIT Patna interested in machine learnin
 - [SentinelStream](https://github.com/TheDoomBoy-jab/sentinelstream) — transaction scoring and backend infrastructure experiments.
 - [kilo-rs](https://github.com/TheDoomBoy-jab/kilo-rs) — an AI-assisted Rust editor reconstruction with tests, benchmarks, and profiling.
 
-## 3D contribution calendar
+## calendar
 
 <div align="center">
   <img src="profile-calendar.png" alt="Isometric calendar of my GitHub contributions over the past year" width="800">
